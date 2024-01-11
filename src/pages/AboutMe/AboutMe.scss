@@ -1,0 +1,26 @@
+.about-me-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+    .about-me-heading {
+      font-size: 24px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 20px;
+    }
+  
+    .about-me-content {
+      font-size: 16px;
+      line-height: 1.6;
+      color: #555;
+  
+      p {
+        margin-bottom: 15px;
+      }
+    }
+  }
+  
